@@ -32,7 +32,7 @@ First thing first, I was so glad to have a chance of presenting my game that I c
 
 I thought that our Assignment would take quite some time to make. But luckily, I am in a pair with experienced student, that surely knows what he is doing unlike me. Despite that I was trying to do my best even when not knowing some basics of Python. And with my partner's help I can surely tell, that he helped me a lot.
 
-Version Control wasn't as hard as I expected. No doubt I can clearly understand how it works and why it is useful in every development teams.
+Version Control wasn't as hard as I expected. No doubt I can clearly understand how it works, although not everything yet, and why it is useful in every development teams.
 
 ## Week 4
 
@@ -46,25 +46,31 @@ Programming was fun this week and I assume it will continue that way. Can't say 
 
 Peer-review finished and first assignment finished! Learned more about academic writing and complexity theory
 
-Weekly journal goes here. Reflect.
+Reviewing others codes was interesting. Seeing some really creative approaches was exciting. I don't really know what to say more. I guess everyone was trying to make something creative, and so were we.
+
+I was lucky to get Louis as my pair for programming. He is very experienced, unlike me, and can help me write a code at any time. As I'm not that good at managing my time yet, he always set our time for doing the tinkering graphics assignment, which really helped us make that earlier. Also, while doing this assginment, I learnt some basics from Louis. Thanks to him I can now contribute a little bit more for our game project.
+
+Just for mentioning, learning some academic writing was useful, as I learnt how papers should look like and what we should avoid writing. This way I could concentrate on academically approached paper, which tutors are looking for when reviewing our papers, I guess. 
 
 ## Week 6
 
 Spent the week with my team working in the studio! Made a lot of progress on the game...
 
-Weekly journal goes here. Reflect.
+This was some exciting time. We did quite a lot for our game, comparing to our sprint goal we should have done that week. Although not everyone was at the studio some days, but that's totally okay, as they could have had some other problems or they couldn't contribute enough. Good thing is, we still communicated a lot, so that everyone know what is up-to-date. First days of the week were productive, as we were coming to the studio for a couple of hours for coding and doing stand-ups. Even after completing the user stories that were to be done during the sprint, we continued working and implementing some other features. Everyone was making what he thought would be nice to see in the game or just was committed to make a particular thing (that's me! :]). Although I didn't make that by myself, I mean that I was looking for some codes on the internet, but this is at least something. I mean, even though I looked on the internet, I still learnt from that. I can partially understand some functions or how to make a specific code or else...
 
 ## Week 7
 
-and so on...
+Presenting out Agile Research as a team. Starting new section in tinkering - Audio!
 
-Weekly journal goes here. Reflect.
+To be fair, we did our presentation at the same day when we had to present that. I tried to make that before, but ended up the same. Although I started one day before presenting, but didn't finish. Oh well, that still wasn't that bad! The worst part is that I still didn't know exactly what I would be writing about. But thanks to our tutors feedback, I changed my topic to look more academically (if that's the word) and understood what I should be concentrating on. So, after all, this was a great opportunity to change whatever should be changed. That's weird, isn't it? ...
+
+After finishing our first tinkering assignment, we started audio! New pairs - new challenges. Audio is a weird thing in coding terms, I guess. I still can't understand how we should present that to our tutor. I mean, how should all that be made... I assume this won't be as hard as the graphics one, but it surely will be a weird experience. Well, we will se how it goes! :]
 
 ## Week 8
 
-and so on...
+WARNING! Agile Essay and Research Journal Deadlines!
 
-Weekly journal goes here. Reflect.
+This week was terrible for everyone... None of us could contribute even a little to our game. All of us were concentrated on essays. I just don't have much to say at this point. We were just trying to reach that word limit together with some meaningfulness in it, so we had something for the peer reviews. To be fair, I'm not good at reviewing papers. Not that I can't review them at all, I just cannot give a good feedback. I can only say that some particular text is irrelevant or something else is wrong. I cannot suggest how one should change his paper. But I guess I'll manage this during our first peer-reviews. Also, I got a good feedback from my peer so I could improve my agile essay. As well as reviewing other papers, not only our peers, but also some previous year's ones, I understood, what my mistakes were at that moment. Thus, I could change my essay AND remember it so I know how to write the next essays. But eventually we did it! :]
 
 ## Week 9
 
