@@ -74,24 +74,36 @@ This week was terrible for everyone... None of us could contribute even a little
 
 ## Week 9
 
-and so on...
+Ending of first game development and new team announcement!
 
-Weekly journal goes here. Reflect.
+Finally we have finished our first game together. This was a very good experience, and of course, a game to work on. I don't know if everyone is satisfied with the result, but we definitely did well. Although I have to admit, we didn't do everything we expected for that period, which, I suppose, is okay. However it was pleasant to work with those guys. I learnt a lot from them. To be fair, I love how everything is being done in the University. I would never have thought, that we will work in groups to make games from the very beginning. And that's what the most satisfying for me here. I love it. I love working that way. Not like I want others to do my job, definitely not, but it's much more efficient this way. I wish i had more inspiration working in groups. But I guess I'll improve in this field quite fast during my first year.
+
+As we have finally finished our first game, everybody saw an announcement, that we are being divided into groups, again, of 9-10 people from different categories of game development. This is so cool. Can't wait to start working with them. Luckily, in our group the 3 programmers are the same as from the previous team. This will make me feel more comfortable, as it takes some time for me to get used to new people. But when there are some that I know well already, it makes it more easier. However, I feel like others are nice as well, but we will see that next week, as we will have a meeting then. I hope it goes well.
 
 ## Week 10
 
-and so on...
+Presenting our game, meeting new people and reviewing others audio codes
 
-Weekly journal goes here. Reflect.
+This week we have presented out game, which quite impressive compared to some others, not gonna lie. Although none of the games were full games, which is expected, but it still was fun. However, unfortunately, we had some problems during the presentation. And only our team... This was a bit embarrassing. But whatever... Our team is still happy we could do so much and learn from each other. Especially, those who knew little about the programming.
+
+This week I also met our new team, new people, which were very enthusiastic about the cooperative work we are going to do this whole semester. Each of them has their own preferences, which is amazing. I can learn so much from all of them. Especially things that I couldn't even think about before. Well, we will see that later, when we start working on our game. But for now this is only expectations, which usually are wrong. Let's not think negatively, shall we? :)
+
+There was also an audio review lesson. As all the previous reviews, it went okey. Some codes were working, some not understandable at all. Those are just unfinished after all.
 
 ## Week 11
 
-and so on...
+Game's concept brain-storming, starting Unreal Engine and Worksheet D review!
 
-Weekly journal goes here. Reflect.
+This week, our team has brain-stormed a lot of ideas for our upcoming game. Unfortunately, I couldn't keep up with all the ideas. That's why I couldn't suggest any of mine, because I didn't have any... This is my problems during brain-storming. I rarely have any ideas, until we start doing something. 
+
+Before starting Unreal Engine here, in University, I have introduced myself briefly to that. However, I know that's not enough to know coding there well. But that's why I'm studying here! To learn. By the way, we are doing our next game in Unreal Engine, which is fortunate for me, as I not only will learn it from my mates, but also in lessons.
+
+For the last thing - worksheet D was our tic-tac-toe code. Surprisingly, it went well for me, which I didn't expect. Also, thanks to others, that gave me example of how I could find a winner there. Luckily, I understood and implemented that. For the review lesson itself?... It was no different than the others. We just talked through the possible ways of doing that, and somebody even showed us his solution.
 
 ## Week 12
 
-and so on...
+Last week of the term! HOLIDAYS
 
-Weekly journal goes here. Reflect.
+We had still brain-stormed this week to have a final thoughts about the game. Luckily, everyone was happy with what we are going to make. Why luckily? Well, everyone has his own preferences to what he or she wants to make, and they might be very different from others, which would make the game impossible to make, or at least would not make any sense. But, as I mentioned, everything went good, and we have a final version of the game we are going to make. I hope it goes the same way when we start actually making it. Fingers crossed!
+
+After having a final thought about the game, we had to make a pitch itself to present it this week. Everyone had his role, except for me. I so hate myself for not being active and having no ideas in these situations. I couldn't think of anything that would help our team, even when others suggested what I should research... I'm so useless... But, I shouldn't be so negatively thoughtful. I think, remembering this situation, will lead me to better understanding of what I should do next time we start making a game. Yes, thinking like that, would make much more sense in self-development... or improvement, whatever.
