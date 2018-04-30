@@ -107,3 +107,30 @@ Last week of the term! HOLIDAYS
 We had still brain-stormed this week to have a final thoughts about the game. Luckily, everyone was happy with what we are going to make. Why luckily? Well, everyone has his own preferences to what he or she wants to make, and they might be very different from others, which would make the game impossible to make, or at least would not make any sense. But, as I mentioned, everything went good, and we have a final version of the game we are going to make. I hope it goes the same way when we start actually making it. Fingers crossed!
 
 After having a final thought about the game, we had to make a pitch itself to present it this week. Everyone had his role, except for me. I so hate myself for not being active and having no ideas in these situations. I couldn't think of anything that would help our team, even when others suggested what I should research... I'm so useless... But, I shouldn't be so negatively thoughtful. I think, remembering this situation, will lead me to better understanding of what I should do next time we start making a game. Yes, thinking like that, would make much more sense in self-development... or improvement, whatever.
+
+
+# 2nd Semester
+
+## Week 1
+
+New semester, meeting new team and starting our game project.
+
+Winter holidays have ended and now we start our new semester, I wonder what exciting stuff will be now. We've been told our next assignmets for COMP130 and COMP140, and the first few assignments for COMP130 are quite similar to the previous semester's ones, although with no quizzes this time. 
+
+Before this semester has started, we have met our new team, who we are going to start a game project with. I'm always having problems with meeting new people and being talkative, so I had this feeling of not knowing them and, therefore, felt like I'm not needed there, as I always feel. But, because I'm used to that, I started trying to make at least some progress in self-development. We have already been thinking of a game, that we are planning to make, but couldn't make our minds. So, this took us a few weeks, we were making up totally different ideas from the previous ones, overscoping and also trying to make it simple, but still didn't come to a conclusion. Although a brief understanding of what everyone wants to see in our game we already had. It was just a matter of time when we decide on a game!
+
+## Week 2
+
+Starting prototyping our game and still making up game ideas.
+
+I've recently started making our game's prototype knowing that it's going to be in Unreal and top-down view. So, first thing I could do is make player's character movements and maybe play a bit with blueprints to see what I could do with it later. To be honest, there was nothing really special or problematic this week, as we were just concluding what the game will be about, while I was starting to get some stuff going on, so we could all start making our game as soon as we decide on the mechanics. And at the end of this week, we've decided on most things, but this could change later on in the development.
+
+## Week 3
+
+Game starting to grow and new problems occuring
+
+While we work on our game all together, it surely starting to grow into some kind of a game. Although not without problems. I think we are a good team, having nice communication between everyone and everything, but we were having some troubles with merging all our stuff into one Unreal project, as we were all working on the separate ones. So this caused us a lot of time-wasting research due to our bad knowledge of Unreal Engine. I hope everything goes well later and we can work on a single project.
+
+In addition, we were introduced to our COMP130 Software Engineering essay assignment. Honestly, I have no idea what I'm going to write about. And most likely I'll come to an idea and start writing at the very last week. Hopefully, this will go less stressful as it was the previous semester...
+
+## Week 4
