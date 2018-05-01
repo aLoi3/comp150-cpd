@@ -134,3 +134,34 @@ While we work on our game all together, it surely starting to grow into some kin
 In addition, we were introduced to our COMP130 Software Engineering essay assignment. Honestly, I have no idea what I'm going to write about. And most likely I'll come to an idea and start writing at the very last week. Hopefully, this will go less stressful as it was the previous semester...
 
 ## Week 4
+
+Meeting another team and more problems with Unreal
+
+This week we have met a new 1st year team that are working in Unity. Before having met with them, we had problems with building Unreal to show our product. This was such a pain for some of our teammates, because we didn't want to load Unreal editor, wait a few minutes till it compiles (if it compiles at all) and then play it there. But, eventually, it went alright. Even though we've had a few "game features", which shouldn't be in the game, the other team liked it and suggested to keep it. Well, I agree, that it was funny to deflect your own bullets while deflecting enemy bullets. We'll consider that whether we should keep it.
+
+Moreover, we still don't have any idea about our main character and what is the progress. Our artist decided to make the player character model, but we haven't heard anything about that and how it goes. We hope everything goes well with it and we can soon see atleast "work-in-progress" model.
+
+## Week 5
+
+This week we have our software engineering research proposal review. Even though I have written it, of course, I'm still not sure what I want to write about. My research question is kind of boring, I guess, and requires some boring researching... So, I'm going to change this topic as soon as I understand what I really want to write about. Although I think I'll keep AI as the main topic. Moreover, I have started working on AI in our game, so this will be a good research experience, if I find something interesting about AI in games. In addition, this would probably help me create AI in our game more intelligent... or at least so that it fits our game pace.
+
+## Week 6
+
+Reading week and continuing AI development in the game.
+
+This time it's reading week, so nothing special happened. Basically, still researching what topic I should write about and how to make it not as boring for me as it is expected to be. Oh God... next week we have to show our presentations for our essay. This is going to be bad as I don't know what exactly I'm going to write about. At least I know that it's going to be about AI. So, I can briefly present what I think should be or is going to be written in my essay.
+
+Besides reading, we have our supervised studio practice, where we continue working on our game. And I'm continuing developing better AI for the game as well as learning more about it, so I can write about that in my essay. Nice. Starting to improve our shooting enemies, which are the most important. And I need to make them strafe while shooting at the player. I hope I'll manage to do that in a few days, because I'm still learning behaviour trees and how to make the most efficient.
+
+## Week 7
+
+Software engineering research presentation, show and tell day and more game development.
+
+This week was kind of intense due to software presentation and show and tell day. So, for the presentation, I think it went alrgiht, though not knowing the exact research question (still...). But this did not prevented me from doing the presentation and talking about it. Although I think half of it will be irrelevant to my actual essay... And I think, I also noticed some stuff from others' presentations that could be relevant for me.
+
+Show and Tell day was fun to see everyone's games in development, how they have right now and how they might improve later on. Same for our game. Although the trailer has been made at the last possible minute (as it always is...), it actually went pretty well. Honestly, I didn't expect it to be that smooth. And after the presentation, during a break, a friend of mine and his team from 2nd year told me that they really liked the concept of the game and wanted to see it's final version by the end of the semester. Also suggesting some interesting mechanics that could possibly fit our game. Moreover Douglas Brown also voted for us and said that our game was pretty fun, at least from the look of it.
+
+## Week 8
+
+Software engineering essay peer review and actual deadline and meeting another team again.
+
