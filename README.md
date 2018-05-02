@@ -165,3 +165,15 @@ Show and Tell day was fun to see everyone's games in development, how they have 
 
 Software engineering essay peer review and actual deadline and meeting another team again.
 
+This week and previous weekend were kind of stressful due to essay deadline and because I formed a research question just a week before the actual deadline... As I expected, I have done this again - doing the actual work at the very last week, which I should try to avoid in the future. I'm glad the essay is done andeverything that's left is our game and custom controller game. To be honest, there were moments where I genuinely thought I won't make this essay until the deadline, but fortunately I made it and everything is fine now!
+
+This week we have also met another team, which we have met a few weeks ago, but unfortunately I couldn't come, so I don't really have anything to say about it. I don't know how their game changed since I saw it on Show and Tell day the other week, but I hope everything is going alright for them as well.
+
+## Week 9 
+
+Basically more game polishing.
+
+This week we were all basically just improving and polishing whatever should be and maybe adding some new stuff. Personally I was continuing working on AI, trying to fix our shooting enemies, because they were not working as intended. But thanks to James Collins, a good lad, who specialises on AI being 2nd year, helped me fix that and now it all works perfectly! I'm so glad there's this man in the academy. :) Nonetheless, I still have to add some behaviour to other enemies and maybe see how this could be improved before we hand-in the game. Hopefully all goes fine and nothing will be broken at the hand-in date...
+
+## Week 10
+
