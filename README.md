@@ -177,3 +177,22 @@ This week we were all basically just improving and polishing whatever should be 
 
 ## Week 10
 
+Showing our game to the class and fast approaching deadlines for our game project and custom controller game
+
+This week we have shown out games to each other and that was exciting to see what others have done throughout this semester. Some of them were good and fun to play, some are definitely unfinihsed and could be more exciting if they put more effort into that, but that's in the past and only their experience. Nonetheless, I like working on the game and I think we did good job there with all the others in the team. But it's still not the end and we have a week left to polish our game! Because we have the deadline next Tuesday, so we have to do our best till then.
+
+Moreover, the custom game controller deadline is also early next week. And I have just started making it... I afraid I get stressful about it later in the week and wont't make it as desired. That's the biggest thing I hate in myself - starting actual work at the last possible moment with ton of stress... I definitely need to do something about it, so I don't get this experience on my second year. Maybe putting some on my personal whiteboard to remember all the deadlines and work I need to do. Nevertheless, I totally need to work on myself with this problem.
+
+## Week 11
+
+Two biggest deadlines handed-in and 1st year soon to be finished!
+
+Previous week was kind of stressful, as I expected, same as this week's Monday, when we had to hand-in the custom game controller assignment. For the whole day I was working on the game and controller, so that it makes some sense of both of these. Thanks to everybody that helped me with this, especailly Al and a friend of mine, that was giving me a mental support, which I really needed... And this is all behind now, but I need not forget that this is bad experience to be in and I need to work on that so I don't get stressed out in the future about the assignments. I just need to manage my time so that I have enough time to actually work on the assignment bit by bit.
+
+Also, out team project game has also handed-in this week. This was a great experience to work with others, communicate and make an actual game, maybe not as good, but this our 1st year after all. And we still have the PO meeting next week, as it was postponed because Brian was busy, to discuss what we did good and maybe give some feedback/criticism to others' work, so we all can improve and make a better game next study year! I just hope everyone takes it easy and also could give some criticism to others :)
+
+## Week 12
+
+Actually the end of the semester! *balloons and fireworks everywhere!*
+
+To be honest, this is basically the last week we have lectures, except for the next week with game demos and programming vivas. So I really don't have anything to report, because this week was just a relaxing one, even though we still have CPD report to write, but that's not a problem. To be fair, this study year has ended really fast. Faster than any of the other years, which were school years for me. Maybe because we were working on game in our 1st year and that was exciting? Nonetheless, I really enjoyed making games with others, especially this semester when we had 9 people in the team working on Unreal and having different things to make dependant on our course. So far I'm really enjoying this :)
